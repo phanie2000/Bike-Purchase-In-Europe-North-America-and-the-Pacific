@@ -55,16 +55,29 @@ Insight: The analysis shows that low-income earners account for the largest shar
 
 # 5.	KEY INSIGHTS FOR THE STUDY
 •	The dataset is demographically balanced by gender, with a slight dominance of married individuals, indicating a largely stable household population.
+
 •	Young adults dominate the dataset and drive most behavioral patterns, making them the most influential segment in the analysis.
+
 •	High home ownership rates suggest overall financial stability, which supports stronger purchasing power across the sample.
+
 •	North America contributes the majority of records, meaning most insights are most representative of this region, while the Pacific is underrepresented.
+
 •	Male married individuals and female single individuals are the most prominent demographic groups, highlighting distinct household and lifestyle patterns.
+
 •	Home ownership is most common among individuals with bachelor’s degrees, while partial college holders own more homes than those with graduate degrees, showing that higher education does not directly translate to higher home ownership.
+
 •	Income levels vary widely, but professionals dominate both representation and earning power within the dataset.
+
 •	Participants who purchased bikes earn slightly more on average than those who did not, indicating a positive relationship between income and purchase likelihood.
+
 •	Middle-income earners have the highest number of children, while high-income earners tend to have smaller households.
+
 •	Professionals are the only occupation group where bike purchases exceed non-purchases, making them the strongest purchasing segment.
+
 •	Males account for the majority of bike purchases and also record higher average incomes among both purchasers and non-purchasers, suggesting income and occupation outweigh gender as purchase drivers.
+
 •	Low-income earners show the highest engagement, accounting for the largest number of both purchases and non-purchases, but with mixed outcomes.
+
 •	Young adults are the most active bike buyers, while adults and older individuals are more likely not to purchase bikes.
+
 •	Commute distance is a strong predictor of bike purchases, with short-distance commuters (0–1 mile and 2–5 miles) showing higher adoption, and long-distance commuters being the least likely to purchase bikes.
